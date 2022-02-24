@@ -159,6 +159,21 @@ div.update {
   font-size: large;
   line-height: 1.1;
 }
+
+div.remember {
+  padding: 1em;
+  margin: 1em 0;
+  padding-left: 100px;
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: 15px center;
+  min-height: 120px;
+  color: #006d2c;
+  background-color: #a1d99b;
+  border: solid 5px #006d2c;
+  font-size: large;
+  background-image: url("img/Lightbulb.png");
+}
  
 .subtitle {
   text-align: center;
